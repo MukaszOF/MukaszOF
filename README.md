@@ -14,4 +14,4 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.jetbrains.com/cpp/?source=google&medium=cpc&campaign=12668269321&gclid=Cj0KCQiA2ZCOBhDiARIsAMRfv9LPIsC4AhlCPMKIBEZdjUSxYXSv5laVBLOOPnP8JS4hIT3D4MXZNJUaAtjREALw_wcB)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 
-![Snake Animation](https://github.com/MukaszOF)
+![Snake animation](https://github.com/mukaszof/mukaszof/blob/output/github-contribution-grid-snake.svg)
